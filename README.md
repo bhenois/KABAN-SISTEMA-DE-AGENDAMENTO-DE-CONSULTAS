@@ -2,15 +2,11 @@
 
 https://trello.com/invite/b/6aa09796a794d320911f02d6/ATTId2063fd59ad51ecd2c99c3a50d34728cF292955F/kaban
 
-# Atividade Prática - Kanban
+O cenário utilizado é um **sistema web de agendamento para uma clínica**.
 
-Atividade desenvolvida para a disciplina de **Metodologias Ágeis**.
-
-## Objetivo
-
+Serviço de desenvolvimento e manutenção de um sistema web de agendamento para clínica, responsável por tratar funcionalidades, correções de defeitos e melhorias técnicas, acompanhando as demandas desde a solicitação até a entrega.
 O objetivo da atividade é representar e simular o fluxo de trabalho de uma equipe utilizando o método Kanban.
 
-O cenário utilizado é um **sistema web de agendamento para uma clínica**.
 
 ## Quadro Kanban
 
